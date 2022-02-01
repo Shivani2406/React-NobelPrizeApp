@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-NobelPrizeApp/static/css/main.4092a811.css",
+    "main.js": "/React-NobelPrizeApp/static/js/main.afd1382f.js",
+    "index.html": "/React-NobelPrizeApp/index.html",
+    "main.4092a811.css.map": "/React-NobelPrizeApp/static/css/main.4092a811.css.map",
+    "main.afd1382f.js.map": "/React-NobelPrizeApp/static/js/main.afd1382f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4092a811.css",
+    "static/js/main.afd1382f.js"
+  ]
+}
